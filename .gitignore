@@ -1,0 +1,14 @@
+# Backend (Spring Boot)
+target/
+*.log
+*.class
+.idea/
+.mvn/
+*.iml
+*.jar
+*.war
+
+# Frontend (React.js)
+node_modules/
+build/
+.env
